@@ -51,3 +51,16 @@ image_toolkit/
 
 ## ライセンス
 MIT License
+
+## 詳細ドキュメント
+
+本ライブラリの設計・開発・運用・拡張方法については、以下のドキュメントをご参照ください。
+
+- [ARCHITECTURE.md](docs/ARCHITECTURE.md) — ライブラリ全体の設計思想・構造・設計方針
+- [BUILD_PYINSTALLER.md](docs/BUILD_PYINSTALLER.md) — PyInstallerによる配布・ビルド手順
+- [DEVELOPER_GUIDE.md](docs/DEVELOPER_GUIDE.md) — 開発者向けガイド・拡張方法・コーディング規約
+- [LAUNCHER_GUIDE.md](docs/LAUNCHER_GUIDE.md) — ランチャー・起動方法・コマンド解説
+- [NAMING_CONVENTIONS.md](docs/NAMING_CONVENTIONS.md) — ファイル・クラス・関数の命名規則
+- [NEW_PROJECT_GUIDE.md](docs/NEW_PROJECT_GUIDE.md) — 新規プロジェクト作成・導入手順
+
+各ドキュメントは、image_toolkitの利用・拡張・運用・開発に役立つ情報を体系的にまとめています。目的に応じてご活用ください。
